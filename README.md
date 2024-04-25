@@ -30,10 +30,6 @@ After adding functionality with JavaScript, it's time to make your calculator wa
 
 Throughout the development process, it's important to test your calculator watch thoroughly and debug any issues that arise. Use browser developer tools and console.log statements to identify and fix bugs in your code.
 
-## Contributing
-
-If you find any bugs or have suggestions for improvements, feel free to contribute to this project! Fork the repository, make your changes, and submit a pull request.
-
 ## Resources
 
 - [MDN Web Docs](https://developer.mozilla.org/en-US/)
